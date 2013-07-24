@@ -22,8 +22,6 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
 In Your application.scss.css
 
     *= require ink_ui
