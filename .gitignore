@@ -15,3 +15,5 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+
+vendor/assets/fonts/font/.DS_Store
