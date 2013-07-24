@@ -1,5 +1,7 @@
 # InkUiRails
 
+[![Gem Version](https://badge.fury.io/rb/ink_ui_rails.png@2x.png)](http://badge.fury.io/rb/ink_ui_rails)
+
 InK for Rails Asset Pipleline
 
 Need help for InK itself. Go to the [InK homeapge](http://ink.sapo.pt/)
