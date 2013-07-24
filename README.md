@@ -1,6 +1,8 @@
 # InkUiRails
 
-TODO: Write a gem description
+InK for Rails Asset Pipleline
+
+Need help for InK itself. Go to the [InK homeapge](http://ink.sapo.pt/)
 
 ## Installation
 
@@ -19,6 +21,14 @@ Or install it yourself as:
 ## Usage
 
 TODO: Write usage instructions here
+
+In Your application.scss.css
+
+    *= require ink_ui
+
+In Your application.js
+
+    //= require ink_ui
 
 ## Contributing
 
