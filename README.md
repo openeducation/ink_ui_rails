@@ -1,6 +1,6 @@
 # InkUiRails
 
-[![Gem Version](https://badge.fury.io/rb/ink_ui_rails.png@2x.png)](http://badge.fury.io/rb/ink_ui_rails)
+[![Gem Version](https://badge.fury.io/rb/ink_ui_rails.png)](http://badge.fury.io/rb/ink_ui_rails)
 
 InK for Rails Asset Pipleline
 
