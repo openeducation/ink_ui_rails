@@ -4,6 +4,8 @@
 
 InK for Rails Asset Pipleline
 
+**PLEASE NOTE** This Project is REALLY Broken in its current state, please help fix by fixing issues.
+
 Need help for InK itself. Go to the [InK homeapge](http://ink.sapo.pt/)
 
 ## Installation
